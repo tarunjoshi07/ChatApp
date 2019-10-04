@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "85709949504",
+    "firebase_url": "https://dmsat-f8188.firebaseio.com",
+    "project_id": "dmsat-f8188",
+    "storage_bucket": "dmsat-f8188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85709949504:android:c3c041ab9efb63fe",
+        "android_client_info": {
+          "package_name": "com.example.sandeep.dmsat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85709949504-pms2gimhs9ijs7nj3lotp1u55rtu0o1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sandeep.dmsat",
+            "certificate_hash": "edb7153642aeb1fe8d586ca14017bedbbc99819f"
+          }
+        },
+        {
+          "client_id": "85709949504-lsl2ec1tq894iqar2l9e36bgltqvfq9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmb0j9pZrpTII-7IvzmPs58xkeCdU6hPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85709949504-lsl2ec1tq894iqar2l9e36bgltqvfq9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group1">
+        <item
+            android:id="@+id/menuaddfriends"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="addfriends" />
+        <item
+            android:id="@+id/cpassword"
+            android:icon="@drawable/ic_security_black_24dp"
+            android:title="Change Password" />
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="share" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_perm_identity_black_24dp"
+            android:title="about" />
+    </group>
+    <group android:checkableBehavior="single"
+        android:id="@+id/group2">
+        <item
+            android:id="@+id/menulogout"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="logout " />
+    </group>
+</menu>
